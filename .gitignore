@@ -1,4 +1,6 @@
 .vscode/
-go_backend_RSS_aggregator.exe
+vendor
+
+*.exe
 
 .env

@@ -1,3 +1,5 @@
-module github.com/TomaszOlek/go_backend_RSS_aggregator
+module rssagg
 
 go 1.20
+
+require github.com/joho/godotenv v1.5.1
