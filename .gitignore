@@ -4,3 +4,5 @@ thunder-tests
 *.exe
 
 .env
+
+# docker run --rm -v "C:\Users\Tomek\Desktop\go_Backend_RSS_Aggregator:/src" -w /src sqlc/sqlc generate

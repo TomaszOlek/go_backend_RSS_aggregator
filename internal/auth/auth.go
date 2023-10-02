@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-// GetAPIKey extacts ab API Key from
+// GetAPIKey extacts an API Key from
 // the headers of an HTTP request
 // Example:
 // Authorization: ApiKey {insert apikey here}
